@@ -4,11 +4,6 @@ import updateFilms
 import deleteFilms 
 import filterFilms
 
-
-
-
-
-
 def menuOptions():
 
     options = 0 
